@@ -38,6 +38,10 @@ html {
   font-family: $ff-poppins;
   font-size: 10px;
   scroll-behavior: smooth;
+  text-size-adjust: none;
+    -ms-text-size-adjust: none;
+    -webkit-text-size-adjust: none;
+    -moz-text-size-adjust: none;
 }
 
 body {
